@@ -1,0 +1,6 @@
+{
+  "name": "FrameFlow - Image to GIF Studio",
+  "description": "Professional browser-based image animation and GIF creation studio with real-time motion controls, timeline editing, and instant export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
